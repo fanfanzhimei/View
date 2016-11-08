@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">View</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_query">查询</string>
+    <string name="str_number">请输入您要查询的学号</string>
+</resources>
